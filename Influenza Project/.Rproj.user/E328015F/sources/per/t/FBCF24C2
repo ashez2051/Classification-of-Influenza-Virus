@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579770087090.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "969896166",
+    "id" : "FBCF24C2",
+    "lastKnownWriteTime" : 1579799790,
+    "last_content_update" : 1579799790673,
+    "path" : "~/STIN300/Influenza Project/Knnfunc.R",
+    "project_path" : "Knnfunc.R",
+    "properties" : {
+        "cursorPosition" : "2,28",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

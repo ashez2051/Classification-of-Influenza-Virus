@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579799301542.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2ADCC215",
+    "lastKnownWriteTime" : 1579792505,
+    "last_content_update" : 1579799301542,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "D47074BD",
+        "caption" : "table.relative_matrix_count",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=table.relative_matrix_count&cache_key=D47074BD",
+        "displayedObservations" : 5986,
+        "environment" : "",
+        "object" : "table.relative_matrix_count",
+        "preview" : 0,
+        "totalObservations" : 5986,
+        "variables" : 16
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
